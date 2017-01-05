@@ -1,0 +1,49 @@
+body {
+	background-image: url(pcsetup.jpg);
+	background-size:1300px 960px;
+	background-repeat:no-repeat;
+}
+.prof-box{
+	color: 	#2E8B57;
+	font: 400 50px/1.3 'Berkshire Swash', Helvetica, sans-serif;
+	position: absolute;
+	top: 180px;
+	left: 310px;
+	text-align:center;
+	text-shadow: 1px 1px 0px #ededed, 4px 4px 0px rgba(0,0,0,0.15);
+}
+#name {	
+	margin-bottom: -50px;
+}
+u1 {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li {
+    float: left;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color:#dddddd;
+}
+li a {
+    display: block;
+    color: black;
+	font-family: cursive;
+	font: Caflisch Script Pro;
+	font-weight: bold;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color: #2E8B57;
+}
+nav {
+	position: absolute;
+	left: 120px;
+}

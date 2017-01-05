@@ -1,0 +1,66 @@
+nav {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 13%;
+}
+u1 {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li {
+    float: left;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color:#dddddd;
+}
+li a {
+    display: block;
+    color: black;
+	font-family: cursive;
+	font: Caflisch Script Pro;
+	font-weight: bold;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color: #2E8B57;
+}
+
+.active{
+	background-color: #2E8B57;
+}
+body {
+	background-image:url(textbackground.jpg);
+}
+#socialmedia {
+	display: inline-block;
+    margin: 0 40px 0 0;
+	color: white;
+	position: absolute;
+	font-family: cursive;
+	font: Caflisch Script Pro;
+	font-weight: bold;
+	top: 140px;
+	left: 5%;
+}
+#other {
+	color: white;
+	font-family: cursive;
+	font: Caflisch Script Pro;
+	font-weight: bold;
+	position: absolute;
+	left: 30%;
+	top: 140px;
+}
+#phone-pun {
+	position: absolute;
+	left: 60%;
+	top: 140px;
+}

@@ -39,26 +39,9 @@ li a:hover{
 	background-image:url(textbackground.jpg);
 }
 
-#trojanactionfigure {
-	position: absolute;
-	top: 2150px;
+.projects {
 	color: white;
 	font-family: cursive;
 	font: Caflisch Script Pro;
 }
 
-#gamejam2016 {
-	position: absolute;
-	top: 1300px;
-	color: white;
-	font-family: cursive;
-	font: Caflisch Script Pro;
-}
-
-#GlobalGameJam2017{
-	position: absolute;
-	top: 50px;
-	color: white;
-	font-family: cursive;
-	font: Caflisch Script Pro;
-}
